@@ -12,6 +12,18 @@
 
 我已经将项目打包成了一个exe程序，把**dist文件夹**下载下来，在里面的config.json文件中修改参数，然后双击main.exe就可以运行了
 
+### 前置要求
+
+- Python 3.7+
+- Microsoft Edge浏览器（在edge_driver文件夹里面有一个，版本不对可以自己替换一下）
+- Edge浏览器驱动 [下载地址](https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/)
+
+### 安装依赖
+
+```bash
+pip install selenium==4.*
+```
+
 ### 参数设置
 
 里面有三个参数：
