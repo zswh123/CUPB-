@@ -29,7 +29,7 @@ pip install selenium==4.*
 
 * username：用户名（我们学校就是学号）
 * password：密码
-* login_url：学校的登录网站，我们学校是[http://login.cup.edu.cn/](https://)
+* login_url：学校的登录网站，我们学校是http://login.cup.edu.cn/
 
 设置完参数然后运行main.py文件就可以启动程序了
 
@@ -37,7 +37,7 @@ pip install selenium==4.*
 ## 开机自启
 
 设置了开机自启就可以自动登录了。
-网上有很多教程这里贴一个[http://blog.csdn.net/qq_41699621/article/details/110630446](https://)
+网上有很多教程这里贴一个[blog.csdn.net/qq_41699621/article/details/110630446](http://)
 
 我自己用的是**创建自启动**的方法：
 
