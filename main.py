@@ -6,9 +6,9 @@ from selenium.webdriver.edge.options import Options
 
 
 # 配置参数
-login_url = "http://202.204.193.222/srun_portal_pc?ac_id=1&theme=cup"  # 登录页面URL
-username = "2022011055" # 学号
-password = "wh20040907wh"# 密码
+login_url = "http://login.cup.edu.cn/"  # 登录页面URL
+username = "123456" # 学号
+password = "456789"# 密码
 edgedriver_path = "edge_driver/msedgedriver.exe"  # 替换为你的EdgeDriver路径
 
 
